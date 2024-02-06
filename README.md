@@ -14,7 +14,7 @@ A basic calculator web application built using HTML, CSS, and JavaScript.
 3. Start performing calculations with ease!
 
 ## Demo
-[Live Demo](#) - Check out the live version of the calculator.
+[Live Demo](#https://srijan8899.github.io/Calculator/) - Check out the live version of the calculator.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or additional features.
